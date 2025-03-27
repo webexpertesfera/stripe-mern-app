@@ -1,5 +1,3 @@
-Here is a basic Markdown (`.md`) file template for your project that integrates Stripe and Stripe subscriptions:
-
 ```markdown
 # Stripe Subscription Integration
 
@@ -162,5 +160,3 @@ To track subscription status updates, use Stripe webhooks to listen for events l
 
 This project is licensed under the MIT License.
 ```
-
-You can copy-paste this into your `README.md` file.
